@@ -13,6 +13,5 @@ height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Kotlin" title="Kotlin" src="https:
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Java" title="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Node.js" title="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Expressjs" title="Expressjs" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CodeIgniter" title="CodeIgniter" src="https://www.vectorlogo.zone/logos/codeigniter/codeigniter-icon.svg"
 height="24">
 <br><br>
