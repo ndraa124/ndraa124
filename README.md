@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Indra David Pesik</h1>
+<h3 align="center">Fullstack Developer</h3>
 
-<!--
-**ndraa124/ndraa124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ndraa124&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndraa124&layout=compact" height=150 width="300"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒&nbsp;&nbsp;&nbsp;My Skill
+<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png"                 height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png"
+height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Kotlin" title="Kotlink" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
+height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Java" title="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
+height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Node.js" title="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Expressjs" title="Expressjs" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
+height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Flutter" title="Flutter" src="https://www.vectorlogo.zone/logos/github/flutter-icon.svg"
+<br><br>
