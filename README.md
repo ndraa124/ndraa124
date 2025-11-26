@@ -39,8 +39,8 @@
 
 ### 📫 &nbsp;Find Me
 <p align="center">
-    <a href="mailto:pesikindradavid@gmail.com"><img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/indradavidpesik"><img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin"></a>
+    <a href="mailto:indradavidpesik@gmail.com"><img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/indradavid"><img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
