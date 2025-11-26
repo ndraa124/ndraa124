@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Fullstack Developer | 😎 Lifelong Learner | 🌏 Jakarta, Indonesia</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ndraa124&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndraa124&layout=compact" height=150 width="300"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ndraa124&margin-w=5&theme=gruvbox" width="330"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndraa124&theme=dark" width="350"/>
 </p>
 
 ---
