@@ -2,7 +2,6 @@
 <h3 align="center">🚀 Fullstack Developer | 😎 Lifelong Learner | 🌏 Jakarta, Indonesia</h3>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ndraa124&margin-w=5&theme=gruvbox" width="330"/>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ndraa124&show_icons=true&theme=radical" />
 </p>
 
